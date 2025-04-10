@@ -13,6 +13,8 @@
 </head>
 <body>
     <h1>KITTIES!!!</h1>
+    <h1>DOGGIES!!!</h1>
     <img src="Recovered_gif_file(2006).gif" alt="">
+    <h1>YIPPIIEE</h1>
 </body>
 </html>
